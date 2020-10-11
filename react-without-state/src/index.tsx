@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Chat from './Containers/Chat';
 import * as serviceWorker from './serviceWorker';
+import Chat from './Containers/Chat';
 
 ReactDOM.render(
   <React.StrictMode>
